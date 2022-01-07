@@ -10,4 +10,4 @@ dependencies:
     - spyder        # Scientific development environment
     - jupyter       # Interactive notebooks
     - pandoc        # Document converter
-    conda env create -f environment.yml
+ 
